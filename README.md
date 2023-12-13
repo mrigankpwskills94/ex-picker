@@ -24,4 +24,5 @@ For a quick example of how to use the `Picker` component, refer to the example i
 
 The `Picker` component is highly customizable, allowing you to modify its appearance and behavior. Explore the options provided by the component and adapt them to your specific use case. Customize styles, labels, and any additional features you may need.
 
-![Uploading a5.png…]()
+![a5](https://github.com/mrigankpwskills94/ex-picker/assets/142077988/3feea1d0-27d2-4433-803d-4f5152ac935b)
+
